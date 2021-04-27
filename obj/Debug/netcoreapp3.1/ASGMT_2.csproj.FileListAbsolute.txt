@@ -1,0 +1,11 @@
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/bin/Debug/netcoreapp3.1/ASGMT_2.deps.json
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/bin/Debug/netcoreapp3.1/ASGMT_2.runtimeconfig.json
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/bin/Debug/netcoreapp3.1/ASGMT_2.runtimeconfig.dev.json
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/bin/Debug/netcoreapp3.1/ASGMT_2.dll
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/bin/Debug/netcoreapp3.1/ASGMT_2.pdb
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.AssemblyInfoInputs.cache
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.AssemblyInfo.cs
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.csproj.CoreCompileInputs.cache
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.dll
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.pdb
+/Users/marcostevanella/Documents/GB/Year_2020-2021/SEMESTER_2/COMP 1202 - Object Oriented Programming/LAB/ASGMT_2/ASGMT_2/obj/Debug/netcoreapp3.1/ASGMT_2.genruntimeconfig.cache
